@@ -10,7 +10,7 @@ public class CoffeeMachine {
         Scanner keyboard = new Scanner(System.in);
 
         while (true) {
-            System.out.println("\nWelcome to the Coffee Machine!");
+            System.out.println("\n Welcome to the Coffee Machine!");
             System.out.println("Select an option to continue:");
             System.out.println("1. Espresso");
             System.out.println("2. Latte");
